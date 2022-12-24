@@ -1,16 +1,17 @@
 # PersonalGoalTracker
 Created a personal Goal Tracker completely using ChatGPT!
 ********************************************************************************************************************************
-Goal Tracker
 A simple tool to help you create and manage your goals, tasks, and progress.
+********************************************************************************************************************************
 
-Features
+## Features
 Create a new goal by entering a description, start date, and end date
 Add tasks to your goals
 Monitor and update your progress on a scale of 0 to 1
 View all your goals and tasks in a list
-Getting Started
-Prerequisites
+
+## Getting Started
+### Prerequisites
 Python 3.7 or later
 The tkinter library (should be included with your Python installation)
 Installing
